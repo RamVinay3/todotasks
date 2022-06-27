@@ -1,0 +1,41 @@
+#top{
+    /* padding-bottom: 10px; */
+    border-bottom: 1px gray solid;
+
+    /* background-color: black; */
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+#appname{
+    /* font-family: 'Courier New', Courier, monospace  ; */
+    font-size: bold;
+    padding-top: 5px;
+
+    font-weight: 900;
+    font-size: 23px;
+}
+#right button{
+margin-right: 10px;
+background-color: #4338CA;
+border-radius: 5px;
+color:white;
+border: none;
+padding: 5px;
+font-weight: 10px;
+}
+#search{
+  
+    width: 560px;
+    height: 40px;
+    border-radius: 10px;
+}
+#image{
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+}
+#button{
+    background-color: #4338CA;
+    color: white;
+}
